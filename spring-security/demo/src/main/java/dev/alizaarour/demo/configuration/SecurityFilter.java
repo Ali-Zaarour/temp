@@ -35,16 +35,19 @@ public class SecurityFilter {
 
     private final JWTOnePerRequestFilter jwtOnePerRequestFilter;
     private final AuthenticationProvider authenticationProvider;
+    private final CorsConfig corsConfig;
 
     @Autowired
-    public SecurityFilter(JWTOnePerRequestFilter jwtOnePerRequestFilter, AuthenticationProvider authenticationProvider) {
+    public SecurityFilter(JWTOnePerRequestFilter jwtOnePerRequestFilter, AuthenticationProvider authenticationProvider, CorsConfig corsConfig) {
         this.jwtOnePerRequestFilter = jwtOnePerRequestFilter;
         this.authenticationProvider = authenticationProvider;
+        this.corsConfig = corsConfig;
     }
 
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity) throws Exception {
         httpSecurity
+                .cors(cors -> cors.configurationSource(corsConfig.apiConfigurationSource()))
                 .csrf(AbstractHttpConfigurer::disable)
                 .httpBasic(AbstractHttpConfigurer::disable)
                 .authorizeHttpRequests(requests ->
