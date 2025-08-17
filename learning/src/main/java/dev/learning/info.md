@@ -10,3 +10,5 @@
 8. [Array 1D](./part1/Array1D.java)
 9. [Array 2D](./part1/Array2D.java)
 10. [Constants](./part1/Constants.java)
+11. [Arithmetic Expressions](./part1/ArithmeticExpressions.java)
+12. 
