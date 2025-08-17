@@ -7,3 +7,4 @@
 5. [Primitive vs Reference](./part1/PrimitiveVsReference.java)
 6. [String](./part1/Strings.java)
 7. [Escape Sequence](./part1/EscapeSequence.java)
+8. [Array 1D](./part1/Array1D.java)
