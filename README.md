@@ -1,10 +1,10 @@
-# JavaDemo
+## JavaDemo
 Implementation of different java topic - demo repository
 
-### Reflection
+| Topic                                                                     |
+|:--------------------------------------------------------------------------|
+| [Learning java from scratch](learning/src/main/java/dev/learning/info.md) |
+| Reflection                                                                |
+| Security                                                                  |
+| Test                                                                      |
 
-### Security
-
-### Test
-
-- lab 24
