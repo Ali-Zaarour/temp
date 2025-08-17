@@ -11,4 +11,4 @@
 9. [Array 2D](./part1/Array2D.java)
 10. [Constants](./part1/Constants.java)
 11. [Arithmetic Expressions](./part1/ArithmeticExpressions.java)
-12. 
+12. [Order of Operations](./part1/OrderOfOperations.java)
