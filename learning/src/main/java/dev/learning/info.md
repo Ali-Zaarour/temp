@@ -6,3 +6,4 @@
 4. [Reference Types](./part1/ReferenceTypes.java)
 5. [Primitive vs Reference](./part1/PrimitiveVsReference.java)
 6. [String](./part1/Strings.java)
+7. [Escape Sequence](./part1/EscapeSequence.java)
