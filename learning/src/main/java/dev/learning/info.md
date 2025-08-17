@@ -9,3 +9,4 @@
 7. [Escape Sequence](./part1/EscapeSequence.java)
 8. [Array 1D](./part1/Array1D.java)
 9. [Array 2D](./part1/Array2D.java)
+10. [Constants](./part1/Constants.java)
