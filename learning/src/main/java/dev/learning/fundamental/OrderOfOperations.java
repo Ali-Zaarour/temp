@@ -1,4 +1,4 @@
-package dev.learning.part1;
+package dev.learning.fundamental;
 
 // Demonstrates the CORRECT operator precedence and associativity in Java,
 // with small runnable examples for each major level.

@@ -1,4 +1,4 @@
-package dev.learning.part1;
+package dev.learning.fundamental;
 
 // Demonstrates 2D (two-dimensional) arrays in Java.
 

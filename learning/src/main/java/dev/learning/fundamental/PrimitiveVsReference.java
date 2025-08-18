@@ -1,4 +1,4 @@
-package dev.learning.part1;
+package dev.learning.fundamental;
 
 // This class compares primitive types and reference types in Java.
 

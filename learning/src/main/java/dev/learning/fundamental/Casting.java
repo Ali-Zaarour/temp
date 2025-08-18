@@ -1,4 +1,4 @@
-package dev.learning.part1;
+package dev.learning.fundamental;
 
 // Demonstrates type casting in Java.
 

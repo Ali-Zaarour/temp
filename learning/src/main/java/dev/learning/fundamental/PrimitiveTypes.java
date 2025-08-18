@@ -1,4 +1,4 @@
-package dev.learning.part1;
+package dev.learning.fundamental;
 
 // This class demonstrates all 8 primitive data types in Java.
 

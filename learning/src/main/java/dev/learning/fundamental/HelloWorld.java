@@ -1,4 +1,4 @@
-package dev.learning.part1;
+package dev.learning.fundamental;
 
 // File: HelloWorld.java
 // This is the most basic Java program structure.
