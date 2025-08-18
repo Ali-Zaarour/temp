@@ -17,5 +17,5 @@
 15. [Number Formatting](./fundamental/NumberFormatting.java)
 16. [Reading Input](./fundamental/ReadingInput.java)
 17. [Comparison Operators](./fundamental/ComparisonOperators.java)
-18. [LogicalOperators](./fundamental/LogicalOperators.java)
+18. [Logical Operators](./fundamental/LogicalOperators.java)
 19. [If Statement](./fundamental/IfStatement.java)
