@@ -29,3 +29,7 @@
 27. [Reserved Words](./fundamental/ReservedWords.java)
 28. [Modifiers](./fundamental/Modifiers.java)
 29. [Method](./fundamental/Method.java)
+30. [Exercise](./fundamental/FundamentalAllInOne_Exercise.java)
+31. [Solution](./fundamental/FundamentalAllInOne_Solution.java)
+
+### Object-oriented Programming
