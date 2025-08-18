@@ -20,3 +20,4 @@
 18. [Logical Operators](./fundamental/LogicalOperators.java)
 19. [If Statement](./fundamental/IfStatement.java)
 20. [Ternary Operator](./fundamental/TernaryOperator.java)
+21. [Switch](./fundamental/Switch.java)
