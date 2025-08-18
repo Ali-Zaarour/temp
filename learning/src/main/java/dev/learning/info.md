@@ -14,3 +14,4 @@
 12. [Order of Operations](./part1/OrderOfOperations.java)
 13. [Casting](./part1/Casting.java)
 14. [Math Class](./part1/MathClass.java)
+15. [Number Formatting](./part1/NumberFormatting.java)
