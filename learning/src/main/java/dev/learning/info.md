@@ -16,3 +16,4 @@
 14. [Math Class](./part1/MathClass.java)
 15. [Number Formatting](./part1/NumberFormatting.java)
 16. [Reading Input](./part1/ReadingInput.java)
+17. [Comparison Operators](./part1/ComparisonOperators.java)
