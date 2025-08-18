@@ -19,3 +19,4 @@
 17. [Comparison Operators](./fundamental/ComparisonOperators.java)
 18. [Logical Operators](./fundamental/LogicalOperators.java)
 19. [If Statement](./fundamental/IfStatement.java)
+20. [Ternary Operator](./fundamental/TernaryOperator.java)
