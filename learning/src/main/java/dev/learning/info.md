@@ -22,3 +22,4 @@
 20. [Ternary Operator](./fundamental/TernaryOperator.java)
 21. [Switch](./fundamental/Switch.java)
 22. [For Loop](./fundamental/ForLoop.java)
+23. [While Loop](./fundamental/WhileLoop.java)
