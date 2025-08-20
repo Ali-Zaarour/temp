@@ -36,3 +36,4 @@
 1. [OOP Benefits](./oop/Benefits.java)
 2. [Creating Class](./oop/CreatingClass.java)
 3. [Creating Objects](./oop/CreatingObjects.java)
+4. [Memory Allocation](./oop/MemoryAllocation.java)
