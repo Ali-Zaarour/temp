@@ -33,3 +33,4 @@
 31. [Solution](./fundamental/FundamentalAllInOne_Solution.java)
 
 ### Object-oriented Programming
+1. [OOP Benefits](./oop/Benefits.java)
