@@ -39,3 +39,4 @@
 4. [Memory Allocation](./oop/MemoryAllocation.java)
 5. [Procedural Programming](./oop/ProceduralProgramming.java)
 6. [Encapsulation](./oop/Encapsulation.java)
+7. [Getter and Setter](./oop/GetterSetter.java)
