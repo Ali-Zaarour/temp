@@ -34,7 +34,7 @@ class Books {
     }
 }
 
-public class ConstructorDemo {
+public class Constructor {
 
     public static void main(String[] args) {
         // === Using Default Constructor ===
