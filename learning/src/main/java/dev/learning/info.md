@@ -45,3 +45,4 @@
 7. [Getter and Setter](./oop/GetterSetter.java)
 8. [Abstraction](./oop/Abstraction.java)
 9. [Coupling](./oop/Coupling.java)
+10. [Reducing Coupling](./oop/ReducingCoupling.java)
