@@ -49,3 +49,4 @@
 11. [Constructor](./oop/Constructor.java)
 12. [Method Overloading](./oop/MethodOverloading.java)
 13. [Method Overriding](./oop/MethodOverriding.java)
+14. [Static Member](./oop/StaticMember.java)
