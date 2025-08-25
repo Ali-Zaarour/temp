@@ -1,5 +1,5 @@
-## JavaDemo
-Implementation of different java topic - demo repository
+## Temp-Demo
+learning, test and demo repository
 
 | Topic                                                                     |
 |:--------------------------------------------------------------------------|
