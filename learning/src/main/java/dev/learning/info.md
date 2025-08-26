@@ -53,3 +53,4 @@
 15. [OOP Mini Project Exercise 1](./oop/OOPMiniProject_Exercise_1.java)
 16. [OOP Mini Project Solution 1](./oop/OOPMiniProject_Solution_1.java)
 17. [Inheritance Basics](./oop2/InheritanceBasics.java)
+18. [Object Class](./oop2/ObjectClass.java)
