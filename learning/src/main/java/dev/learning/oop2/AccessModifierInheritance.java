@@ -1,8 +1,6 @@
 package dev.learning.oop2;
 
-// File: AccessModifierInheritanceDemo.java
 // Topic: Access Modifiers and Inheritance
-// Example: Vehicle -> Car -> Bus
 //
 // This example shows how private, default, protected, and public members
 // behave in parent-child relationships across same and different packages.
