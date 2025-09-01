@@ -55,3 +55,4 @@
 17. [Inheritance Basics](./oop2/InheritanceBasics.java)
 18. [Object Class](./oop2/ObjectClass.java)
 19. [Constructor Inheritance](./oop2/ConstructorInheritance.java)
+20. [Access Modifier Inheritance](./oop2/AccessModifierInheritance.java)
