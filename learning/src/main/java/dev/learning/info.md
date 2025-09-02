@@ -57,3 +57,4 @@
 19. [Constructor Inheritance](./oop2/ConstructorInheritance.java)
 20. [Access Modifier Inheritance](./oop2/AccessModifierInheritance.java)
 21. [Overriding Method](./oop2/OverridingMethod.java)
+22. [Upcasting Down-casting](./oop2/UpcastingDowncasting.java)
