@@ -1,0 +1,65 @@
+.modalBackdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(15, 23, 42, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    z-index: 50;
+}
+
+.modal {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 18px 20px;
+    width: 100%;
+    max-width: 420px;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.25);
+}
+
+.modal h2 {
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-size: 1.1rem;
+}
+
+.modalForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 6px;
+}
+
+.formRow {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.formRow label {
+    font-size: 0.8rem;
+    color: #374151;
+}
+
+.formRow input,
+.formRow select {
+    padding: 6px 8px;
+    border-radius: 6px;
+    border: 1px solid #d1d5db;
+    font-size: 0.9rem;
+}
+
+.formRow input:focus,
+.formRow select:focus {
+    outline: none;
+    border-color: #2563eb;
+    box-shadow: 0 0 0 1px #2563eb22;
+}
+
+.modalActions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-top: 12px;
+}

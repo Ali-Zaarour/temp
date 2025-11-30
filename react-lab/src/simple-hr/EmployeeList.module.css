@@ -1,0 +1,68 @@
+.listHeader {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr auto;
+    gap: 8px;
+    margin-top: 8px;
+    padding: 6px 8px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #6b7280;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.listHeaderJob {
+    text-align: left;
+}
+
+.listHeaderActions {
+    text-align: right;
+}
+
+.employeeList {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-top: 4px;
+    min-height: 220px;
+}
+
+.employeeRow {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr auto;
+    gap: 8px;
+    align-items: center;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border: 1px solid transparent;
+}
+
+.employeeRow:nth-child(odd) {
+    background: #f9fafb;
+}
+
+.employeeRow:hover {
+    border-color: #d1d5db;
+    background: #f3f4f6;
+}
+
+.employeeName {
+    font-size: 0.95rem;
+}
+
+.employeeJob {
+    font-size: 0.85rem;
+    color: #4b5563;
+}
+
+.employeeActions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 6px;
+}
+
+.emptyState {
+    padding: 16px 8px;
+    text-align: center;
+    color: #9ca3af;
+    font-size: 0.9rem;
+}

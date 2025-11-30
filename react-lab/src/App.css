@@ -1,42 +1,81 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+* {
+    box-sizing: border-box;
 }
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: #f3f4f6;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 }
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.app-root {
+    height: 100%;
+    padding: 10px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
+.app-layout {
+    display: flex;
+    height: 100%;
+    border-radius: 12px;
+    background: #ffffff;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
+    overflow: hidden;
 }
 
-.card {
-  padding: 2em;
+.app-sidebar {
+    width: 240px;
+    border-right: 1px solid #e5e7eb;
+    padding: 16px 12px;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
 }
 
-.read-the-docs {
-  color: #888;
+.sidebar-title {
+    margin: 0 0 12px 0;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #111827;
+}
+
+.sidebar-item {
+    width: 100%;
+    padding: 10px 12px;
+    text-align: left;
+    background: #f9fafb;
+    border: 1px solid transparent;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease, transform 0.05s ease;
+}
+
+.sidebar-item:hover {
+    background: #e5e7eb;
+    border-color: #d1d5db;
+    transform: translateY(-1px);
+    color: black;
+}
+
+.sidebar-item--active {
+    background: #2563eb;
+    color: white;
+    border-color: #1d4ed8;
+}
+
+
+.app-content {
+    flex: 1;
+    overflow: auto;
+    background: #f3f4f6;
+}
+
+.app-placeholder {
+    margin: auto;
+    text-align: center;
+    color: #6b7280;
+    font-size: 0.95rem;
 }
